@@ -21,9 +21,9 @@ This repository is the phone fallback command lane for Codex Cloud. When Marcell
 When a task asks to use a computer, Orgo, a browser, ManyChat, Shopify, authenticated web access, or remote desktop control:
 
 1. Check whether `ORGO_API_KEY` is available.
-2. Run `./scripts/orgo.sh status` to confirm Orgo Computer 2 is running.
-3. Use `./scripts/orgo.sh screenshot` to see the current screen.
-4. Use `./scripts/orgo.sh bash`, `click`, `type`, and `key` only as needed.
+2. Run `bash scripts/orgo.sh status` to confirm Orgo Computer 2 is running.
+3. Run `bash scripts/orgo.sh screenshot` to see the current screen.
+4. Use `bash scripts/orgo.sh bash`, `click`, `type`, and `key` only as needed.
 5. Report proof, blocker, and next action.
 
 ## Approval Gates
