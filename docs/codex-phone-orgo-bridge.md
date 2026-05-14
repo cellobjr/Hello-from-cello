@@ -25,8 +25,8 @@ Do not commit the value to GitHub. Do not paste it into task prompts.
 From a Codex Cloud task in this repo, run:
 
 ```bash
-./scripts/orgo.sh status
-./scripts/orgo.sh screenshot
+bash scripts/orgo.sh status
+bash scripts/orgo.sh screenshot
 ```
 
 Expected result:
